@@ -66,6 +66,6 @@ h1,h2,p{
 }
 ul{
     margin: 0;
-    padding: 25;
+    padding: 0;
     list-style: none ;
 }
